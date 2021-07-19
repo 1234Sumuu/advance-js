@@ -1,7 +1,6 @@
-//const age = 0;
-let name =12;
-
-if(name || name == 0){
+const first = 0;
+const second = false;
+if(first == second){
     console.log("condition is true");
 }
 else{
